@@ -3101,12 +3101,15 @@ a.tag.tag-danger:active {
 
 .stat-number .number {
     margin-bottom: 10px;
-    font-size: 3em;
+    font-size: 4em;
     line-height: 1;
-    display: inline-block;
 }
+
 .stat-number .animate-add{
-    font-size: 3em;
+    font-size: 4em;
+    position: absolute;
+    top: 12px;
+    right: 16px; 
 }
 
 .stat-number .title-separator {
